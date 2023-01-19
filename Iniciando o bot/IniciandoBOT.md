@@ -18,12 +18,4 @@ __________________________________
 
 `Discord:` 
 
-      pip install discord.py
-
-`Disnake:`
-
-      pip install disnake
-
-`Pycord:`
-
-      pip install pycord
+      pip install discord.py 
